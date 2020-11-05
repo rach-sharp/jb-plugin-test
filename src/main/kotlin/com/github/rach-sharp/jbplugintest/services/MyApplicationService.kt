@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rach-sharp.jbplugintest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rach-sharp.jbplugintest.MyBundle
 
 class MyApplicationService {
 
